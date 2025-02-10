@@ -1,4 +1,4 @@
-[![masterHead](https://img.freepik.com/premium-photo/grunge-scratch-turquoise-texture-background_145345-48.jpg?semt=ais_hybrid)
+
 <h1 align="center">Hi 👋, I'm İlker</h1>
 <h3 align="center">Mathematics B.Sc.</h3>
 
